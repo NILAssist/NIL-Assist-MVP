@@ -4,12 +4,12 @@
 
 - Personal Identifiable Security
 
-- Integration with canvas
+- Integration with Canvas
 
 - Relational and Vector Databases
     
 - Information about regulations and shit
-- 
-- Promt engineering
+
+- Prompt engineering
 
 - Take a look at Flutter
