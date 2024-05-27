@@ -1,3 +1,6 @@
+> [!WARNING]  
+> This repository is not active.
+
 # This will possibly include
 
 - Biometric authentication
